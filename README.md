@@ -8,8 +8,4 @@ This project implements a **PropBank-style Semantic Role Labeling (SRL) system**
 - Incorporates **segment embeddings** to encode predicate positions.
 - Evaluates model performance using **token-level accuracy and span-based F1 scores**.
 
-## 🚀 Setup & Installation
-1. Clone the repository:
-   ```bash
-   git clone 
-   cd srl-project
+
